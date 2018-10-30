@@ -2,7 +2,7 @@ title: Your awesome title
 author: Rafael De Luna
 email: rafael24b00@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Este es mi nuevo sitio, donde estoy probando el funcionamiento de Github Pages
+ This is my new site where I am testing the functioning of Github Pages
 # social links
 twitter_username: your-twitter-handle
 github_username: [RDLL](https://github.com/RDLL)
