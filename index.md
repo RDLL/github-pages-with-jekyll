@@ -1,3 +1,6 @@
-# Welcome to my blog
+# About me
 
-I'm glad you are here. I plan to talk about ...
+
+I'll talk a little about myself, I'm an engineering student in computer science who is currently in the fifth semester.
+I like the topics of **computer security**:key: and **artificial intelligence**:robot:.
+About my tastes, I do not have many just walking through my city :runner:
